@@ -95,17 +95,45 @@ namespace OutVariables
 
     //example 5
     //Out Parameter Using TryParse
+    /* class Program
+     {
+         static void Main()
+         {
+             string s = "09-Jun-2018";
+             DateTime date;
+             if (DateTime.TryParse(s, out date))
+             {
+                 Console.WriteLine(date);
+             }
+
+             Console.WriteLine("Press any key to exit.");
+             Console.ReadKey();
+         }
+     }*/
+    /* class Program
+     {
+         static void Main()
+         {
+             string s = "09-Jun-2018";
+             if (DateTime.TryParse(s, out DateTime date))
+             {
+                 Console.WriteLine(date);
+             }
+             Console.WriteLine(date);
+             Console.WriteLine("Press any key to exit.");
+             Console.ReadKey();
+         }
+     }*/
     class Program
     {
         static void Main()
         {
-            string s = "09-Jun-2018";
-            DateTime date;
-            if (DateTime.TryParse(s, out date))
+            string s = "09-Junnnneee-2018";
+            if (DateTime.TryParse(s, out DateTime date))
             {
                 Console.WriteLine(date);
             }
-
+            Console.WriteLine(date);
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
