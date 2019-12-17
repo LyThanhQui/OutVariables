@@ -73,7 +73,7 @@ namespace OutVariables
     }*/
     //Example 4
     //Ignore an out parameter in C#
-    class Program
+    /*class Program
     {
         static void Main()
         {
@@ -91,5 +91,24 @@ namespace OutVariables
             Salary = 20000;
             Department = "IT";
         }
+    }*/
+
+    //example 5
+    //Out Parameter Using TryParse
+    class Program
+    {
+        static void Main()
+        {
+            string s = "09-Jun-2018";
+            DateTime date;
+            if (DateTime.TryParse(s, out date))
+            {
+                Console.WriteLine(date);
+            }
+
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
+        }
     }
+
 }
