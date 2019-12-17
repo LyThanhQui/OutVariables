@@ -1,0 +1,11 @@
+H:\demo dotnettutorials\3. C# 7.X new Features\OutVariables\OutVariables\bin\Debug\netcoreapp2.1\OutVariables.deps.json
+H:\demo dotnettutorials\3. C# 7.X new Features\OutVariables\OutVariables\bin\Debug\netcoreapp2.1\OutVariables.runtimeconfig.json
+H:\demo dotnettutorials\3. C# 7.X new Features\OutVariables\OutVariables\bin\Debug\netcoreapp2.1\OutVariables.runtimeconfig.dev.json
+H:\demo dotnettutorials\3. C# 7.X new Features\OutVariables\OutVariables\bin\Debug\netcoreapp2.1\OutVariables.dll
+H:\demo dotnettutorials\3. C# 7.X new Features\OutVariables\OutVariables\bin\Debug\netcoreapp2.1\OutVariables.pdb
+H:\demo dotnettutorials\3. C# 7.X new Features\OutVariables\OutVariables\obj\Debug\netcoreapp2.1\OutVariables.csprojAssemblyReference.cache
+H:\demo dotnettutorials\3. C# 7.X new Features\OutVariables\OutVariables\obj\Debug\netcoreapp2.1\OutVariables.csproj.CoreCompileInputs.cache
+H:\demo dotnettutorials\3. C# 7.X new Features\OutVariables\OutVariables\obj\Debug\netcoreapp2.1\OutVariables.AssemblyInfoInputs.cache
+H:\demo dotnettutorials\3. C# 7.X new Features\OutVariables\OutVariables\obj\Debug\netcoreapp2.1\OutVariables.AssemblyInfo.cs
+H:\demo dotnettutorials\3. C# 7.X new Features\OutVariables\OutVariables\obj\Debug\netcoreapp2.1\OutVariables.dll
+H:\demo dotnettutorials\3. C# 7.X new Features\OutVariables\OutVariables\obj\Debug\netcoreapp2.1\OutVariables.pdb
